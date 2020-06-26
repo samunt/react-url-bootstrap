@@ -1,0 +1,10 @@
+.Dog img {
+    width: 75%;
+    height: 75%;
+    display: block;
+    margin: 0 auto;
+}
+
+.Dog h3 {
+    text-align: center;
+}
